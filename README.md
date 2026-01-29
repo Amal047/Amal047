@@ -80,8 +80,8 @@ Backend-focused developer with hands-on industry experience in **Python, FastAPI
 - **Backend API Development (FastAPI & Django)**  
   Clean, scalable REST APIs with schema validation and separation of concerns.
 
-- **AI Chatbot Training & Evaluation**  
-  Prompt engineering, response evaluation, and iterative model refinement.
+- **AI Chatbot Model Bulding & Evaluation**  
+  Prompt engineering, response evaluation, and iterative model refinement, Bulding RL Chatbot.
 
 - **Full Stack E-Commerce Application**  
   End-to-end system with authentication, business workflows, and frontend integration.
