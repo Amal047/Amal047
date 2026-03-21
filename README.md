@@ -56,7 +56,7 @@ Backend-focused developer with hands-on industry experience in **Python, FastAPI
 
 ## 💼 Experience
 
-### Python Backend Developer — Ultra Fly Solutions (2025 – Present)
+### Python Backend Developer — KenHike (2025 – Present)
 - Developing backend modules and microservices using FastAPI and Python  
 - Designing and optimizing REST APIs and request/response schemas  
 - Supporting production systems: debugging, deployments, and reliability improvements  
