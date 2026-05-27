@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Python Backend Developer | Full Stack Engineer</strong><br/>
+  <strong>Python Backend Engineer | Full Stack Engineer</strong><br/>
   Based in Tamil Nadu, India (IST) 
 </p>
 
