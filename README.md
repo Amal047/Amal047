@@ -22,9 +22,9 @@
 
 ## 👨‍💻 About Me
 
-Backend-focused developer with hands-on industry experience in **Python, FastAPI, Django, and RESTful APIs**. I build scalable APIs and clean backend architectures with a strong emphasis on **reliability, performance, and maintainability**. I also work on full-stack applications and AI chatbot training (prompt engineering & model evaluation).
+Backend-focused Engineer with hands-on industry experience in **Python, FastAPI, Django, and RESTful APIs**. I build scalable APIs and clean backend architectures with a strong emphasis on **reliability, performance, and maintainability**. I also work on full-stack applications and AI chatbot training (prompt engineering & model evaluation).
 
-- 🔭 Currently: Python Backend Developer at **Ultra Fly Solutions**
+- 🔭 Currently: Python Backend Developer at **KenHike**
 - 🎓 MCA (Pursuing) — **IGNOU**
 - 🌍 Location: Tamil Nadu, India (IST)
 - ✅ Availability: **Open to Full-time | Contract | Freelance roles**
